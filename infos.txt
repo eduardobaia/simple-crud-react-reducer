@@ -1,0 +1,9 @@
+
+
+Install 
+
+npm insta react-router bootstrap reactstrap uuid   
+
+
+npm install bootstrap --save 
+
